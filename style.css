@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    height: 100vh;
+    background-color: black;
+}
+img{
+    height: 90vh;
+    
+    
+   
+}
+.content{
+    display: flex;
+    height: 90vh;
+    
+  
+}
+.text{
+    color: aliceblue;
+    margin-top: 338px;
+    margin-left: -253px;
+}
+nav{
+   
+    height: 10vh;
+    width: 100%;
+}
+.logo{
+    height: 7vh;
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.bio{
+ vertical-align: middle;
+}
+.name{
+    color: aliceblue;
+   
+    font-size: 100px;
+}
